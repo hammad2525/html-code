@@ -1,0 +1,35 @@
+#div1{
+
+    color: white;
+    background-color: black;
+    border: 8px solid yellow;
+    border-left: 6px solid rgb(83, 224, 64);
+    width: 8em;
+    padding: 14px;
+    margin: 5em;
+    display: inline-block;
+    margin-left: 11em;
+
+}
+#div2{
+
+    color: white;
+    background-color: black;
+    border: 8px solid yellow;
+    width: 8em;
+    padding: 14px;
+    margin: 7em;
+    display: inline-block;
+
+}
+#div3{
+
+    color: white;
+    background-color: black;
+    border: 8px solid yellow;
+    width: 8em;
+    padding: 14px;
+    margin: 7em;
+    display: inline-block;
+
+}
