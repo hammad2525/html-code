@@ -3,5 +3,11 @@
     border: 2px solid gray;
     padding: 5px;
     background-color: green;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+.flex-container > div{
+    width: 400px;
+    margin: 5px;
+    background-color: hotpink;
 }
