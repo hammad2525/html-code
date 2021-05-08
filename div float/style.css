@@ -2,16 +2,23 @@
 
 #div1{
     
-        width:100px;
+       
         background-color:red;
         float:left;
       
 
 }
 #div2{
-    width:100px;
+    
     background-color:green;
     margin-left: 20px;
-    float:left;
+    float:right;
+
+}
+#div3{
+    
+    background-color:blue;
+    margin-left: 20px;
+    clear: both;
 
 }
