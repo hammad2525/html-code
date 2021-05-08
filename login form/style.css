@@ -1,33 +1,40 @@
-form {
-    border: 3px solid #f1f1f1;
+.form {
+
+    border: 2px solid grey;
+    width: 35%;
     margin-top: 12%;
-    height: 70%;
+    margin-left: 27%;
+    margin-bottom: 12%;
+    
   }
   .text1{
-    width: 50%;
+    width: 60%;
     padding: 12px 20px;
     margin: 8px 0;
-    margin-left:15% ;
+    margin-top: 2%;
+    margin-left:18% ;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
   }
   .text2{
-    width: 50%;
+    width: 60%;
     padding: 12px 20px;
     margin: 8px 0;
-    margin-left:20% ;
+    margin-left:18% ;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
   }
   button {
-    background-color: #04AA6D;
+    background-color: darkorange;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
-    margin-left: 20%;
+    margin-left: 18%;
     border: none;
     cursor: pointer;
-    width: 50%;
+    width: 60%;
+    margin-bottom: 12%;
+    position: relative;
   }
