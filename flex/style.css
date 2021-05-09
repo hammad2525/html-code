@@ -5,9 +5,15 @@
     background-color: green;
     flex-direction: row;
     flex-wrap:wrap;
+    height: 200px;
+    align-items: center;
+    
+    
 }
 .flex-container > div{
-    width: 400px;
+    width: 100px;
     margin: 5px;
     background-color: hotpink;
+    
+   
 }
